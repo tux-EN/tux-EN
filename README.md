@@ -2,7 +2,7 @@
 
 My name is Josh. I go by Tux on the internet.
 
-I work as an IT Project Manager and System Admin during the day. I am Comptia A+ Certified. 
+I work as an IT Project Manager and System Admin during the day. I am CompTIA A+ Certified. 
 I am enrolled in at Cerritos College currently seeking my Computer Science Degree.
 
 my best contact is [joshuadgest@gmai.com](mailto:joshuadgest@gmail.com)
